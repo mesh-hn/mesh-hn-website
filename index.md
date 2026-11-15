@@ -2,3 +2,4 @@ Konfigs usw. zu [Meshcore](https://meshcore.io/) und [Meshtastic](https://meshta
 
 * Meshcore
   * [Repeater](mc-repeater.md)
+  * [Client](mc-client.md)
