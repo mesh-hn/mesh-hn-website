@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Sonstiges zu Meshcore"
-permalink: /mc-sonstiges
+title: "Willkommen beim mesh-hn"
+permalink: /
 ---
 
 Konfigs usw. zu Mesh-Netzen im Raum Heilbronn.
