@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Willkommen beim mesh-hn"
 ---
 
