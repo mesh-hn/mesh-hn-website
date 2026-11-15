@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sonstiges zu Meshcore"
+permalink: /mc-sonstiges
+---
+
 Konfigs usw. zu Mesh-Netzen im Raum Heilbronn.
 
 * [Meshcore](https://meshcore.io/)
