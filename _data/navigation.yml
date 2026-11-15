@@ -9,3 +9,5 @@ main:
     url: /mc-webring
   - title: "Neuigkeiten"
     url: /neuigkeiten/
+  - title: "Offene Punkte"
+    url: https://github.com/mesh-hn/mesh-hn-website/issues
