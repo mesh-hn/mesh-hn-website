@@ -1,0 +1,11 @@
+main:
+  - title: "Einstellen"
+    url: /mc-client
+  - title: "Repeater"
+    url: /mc-repeater
+  - title: "Regionen"
+    url: /mc-regionen
+  - title: "Leute finden"
+    url: /mc-webring
+  - title: "Neuigkeiten"
+    url: /neuigkeiten/
