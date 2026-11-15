@@ -43,3 +43,4 @@ defaults:
 exclude:
   - myproject.toml
   - LICENSE
+  - README.md
