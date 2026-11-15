@@ -4,7 +4,8 @@ permalink: /mc-webring
 ---
 
 Treffen im Raum Heilbronn gibt es noch keine. Bis dahin findest du Leute über THE MÄSH und die
-Nachbar-Communities.
+Nachbar-Communities. Eine eigene Kontaktadresse ist in Arbeit
+([Issue #1](https://github.com/mesh-hn/mesh-hn-website/issues/1)).
 
 * [THE MÄSH](https://the-maesh.de/), Metropolregion Stuttgart inklusive Heilbronn-Franken
   ([Kontakt](https://the-maesh.de/kontakt/))

@@ -52,6 +52,9 @@ region save
 
 An Kreisgrenzen zusätzlich die Nachbarregion anlegen, z. B. `region put #de-bw-sha`.
 
+Das Beispiel legt die Regionen flach an. Ob sie wie bei THE MÄSH verschachtelt werden sollten,
+klären wir noch ([Issue #2](https://github.com/mesh-hn/mesh-hn-website/issues/2)).
+
 Alle Befehle: [MeshCore CLI-Referenz](https://github.com/meshcore-dev/MeshCore/blob/main/docs/cli_commands.md#region-management-v110).
 
 Stand 2026-11-15.
