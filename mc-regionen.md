@@ -34,8 +34,8 @@ In der MeshCore-App pro Kanal den Region-Scope eintragen, ohne `#`, z. B. `de-bw
 
 ```
 region put #de-bw
-region put #de-bw-str
-region put #de-bw-hn
+region put #de-bw-str #de-bw
+region put #de-bw-hn #de-bw-str
 region home #de-bw-hn
 region default #de-bw-str
 region save
@@ -50,10 +50,13 @@ region save
 | `region` | alle Regionen und ihre Flood-Rechte anzeigen |
 | `region remove <name>` | Region löschen (vorher ihre Unterregionen) |
 
-An Kreisgrenzen zusätzlich die Nachbarregion anlegen, z. B. `region put #de-bw-sha`.
+Damit hängt `#de-bw-hn` unter `#de-bw-str` und das unter `#de-bw`. Mit `region` prüfst du den
+Baum vor dem `region save`.
 
-Das Beispiel legt die Regionen flach an. Ob sie wie bei THE MÄSH verschachtelt werden sollten,
-klären wir noch ([Issue #2](https://github.com/mesh-hn/mesh-hn-website/issues/2)).
+An Kreisgrenzen zusätzlich die Nachbarregion anlegen, z. B. `region put #de-bw-sha #de-bw-str`.
+
+An einem echten Repeater ist das Beispiel noch nicht getestet
+([Issue #2](https://github.com/mesh-hn/mesh-hn-website/issues/2)).
 
 Alle Befehle: [MeshCore CLI-Referenz](https://github.com/meshcore-dev/MeshCore/blob/main/docs/cli_commands.md#region-management-v110).
 
