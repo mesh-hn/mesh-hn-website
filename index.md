@@ -1,9 +1,10 @@
-Konfigs usw. zu [Meshcore](https://meshcore.io/) und [Meshtastic](https://meshtastic.org/) im Raum Heilbronn.
+Konfigs usw. zu Mesh-Netzen im Raum Heilbronn.
 
-* Meshcore
+* [Meshcore](https://meshcore.io/)
   * [Repeater](mc-repeater.md)
   * [Client](mc-client.md)
-* Meshtastic
+* [Meshtastic](https://meshtastic.org/)
+* Freifunk
 
 
 [Impressum](https://impressum.mayer.rocks/)
