@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: mesh-hn
 description: Mesh-Netze im Raum Heilbronn
+
+# Repo metadata for project-of-projects, not part of the site
+exclude:
+  - myproject.toml
