@@ -1,9 +1,3 @@
----
-layout: page
-title: "mesh-hn Homepage"
-permalink: /
----
-
 Konfigs usw. zu Mesh-Netzen im Raum Heilbronn.
 
 * [Meshcore](https://meshcore.io/)
